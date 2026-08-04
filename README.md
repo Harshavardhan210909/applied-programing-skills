@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshavardhan210909/applied-programing-skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Harshavardhan210909/applied-programing-skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Harshavardhan210909/applied-programing-skills/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshavardhan210909/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harshavardhan210909/applied-programing-skills/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Harshavardhan210909/applied-programing-skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
